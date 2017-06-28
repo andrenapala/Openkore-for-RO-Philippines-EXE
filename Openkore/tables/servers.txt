@@ -8,3 +8,20 @@
 
 #####################
 # Official RO Servers
+
+## www.ragnarokonline.com.ph
+[Philippines - pRO]
+ip 116.93.119.116
+port 6900
+master_version 
+version 24
+serverType 
+secureLogin 
+secureLogin_type 
+secureLogin_account 
+patchserver
+patchpath
+serverEncoding
+addTableFolders
+charBlockSize 112
+gameguard 1
